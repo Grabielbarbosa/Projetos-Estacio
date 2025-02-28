@@ -9,7 +9,7 @@ int main () {
 
 
     printf("Digite seu Nome: ");
-    scanf("%s", &nome);
+    scanf("%s", nome);
     
     printf("Digite seu Municipio:");
     scanf("%s", municipio);
